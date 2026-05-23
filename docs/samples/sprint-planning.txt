@@ -1,0 +1,11 @@
+Sprint Planning - Platform Team
+
+Ahmed: This sprint we need to finish the login audit trail by Friday.
+Sara: I will draft the API spec update and share it by Thursday.
+John: We also need QA coverage for password reset and session timeout.
+Ahmed: John can you own that test plan and post it this week?
+John: Yes, I will post it in Notion before Friday.
+Sara: We agreed to move SSO cleanup to next sprint.
+Ahmed: Open question, should we support admin impersonation in MVP?
+John: We are blocked on final security signoff from legal.
+Sara: I will follow up with legal tomorrow.
